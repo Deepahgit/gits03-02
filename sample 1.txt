@@ -17,3 +17,7 @@ s3nservices
 
 
 25nov23 - sarturday evening
+
+
+
+git git
